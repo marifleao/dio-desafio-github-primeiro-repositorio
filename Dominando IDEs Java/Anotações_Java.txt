@@ -1,0 +1,11 @@
+Java é uma linguagem de progamação Orientada a Objetos.
+
+*A linguagem java é compilada para um bytecode que é interpretado
+por uma máquina virtual (JVM - Java Virtual Machine).
+
+IDE é um software para criar aplicações que combina ferramentas 
+comuns de desenvolvimento em uma única interface gráfica do usuário (GUI).
+
+Instalação JDK e Git no Windows
+Instalar Java - https://www.azul.com/downloads/?package=jdk
+Criar pasta Java em: C:\Program Files
